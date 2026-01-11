@@ -1,0 +1,31 @@
+
+.first img{
+margin:23px auto;
+  justify-content: center;
+  display: flex;
+  width: 40%;
+  height: 20%;
+  border-radius: 15px;
+}
+.second{
+  background-color: aquamarine;
+  margin: auto;
+  height: 110vh;
+  width: 50%;
+  border: 1px solid red;
+
+}
+.second span{
+  border-radius: 5px;
+  border: 1px solid white;
+  font-size: larger;
+  text-align: center;
+  display: block;
+  margin: 10px;
+}
+.second h1{
+  border:2px solid orange;
+  background-color: blue;
+  text-align: center;
+margin: auto;
+}
